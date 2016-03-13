@@ -1,0 +1,50 @@
+body{
+	    background-image:url(images/DSC00025.jpg);
+		background-size: cover;
+		background-repeat:no-repeat;
+		text-align:center;
+}
+
+img.profile{
+        border: 5px solid white;
+        border-radius:5px;     
+}
+
+
+span.space{
+       padding-left: 45px;
+}
+
+span.space2{
+       padding-left: 17px;
+}
+
+
+span.navigationSpace {
+        padding-left: 50px;
+}
+
+a.Navigation{
+        color: #3333cc;
+        text-decoration:none;
+		font-size:x-large;
+		font-weight:bolder;
+
+}
+
+p.description{
+ text-align:center;
+}
+
+p.description-text{
+ text-align:center;
+ font-family:Georgia;
+ font-style:oblique;
+ padding: 0px 50px 0px 50px;
+}
+div{
+   text-align:center;
+   padding: 0px 0px 0px 0px;
+   
+
+}
